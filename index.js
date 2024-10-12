@@ -185,4 +185,4 @@ client.on('ready', () => console.log('Takagi\'s here!'))
     
 
 
-client.login('NjAwNDM2NDk2NDU3MTM4MTg2.GPEVJZ.ugttqK0HATJDdx9u9B8Mqg6MDhzsNe-oGTlw_I')
+client.login("TAKAGI TOKEN HERE")
